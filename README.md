@@ -57,10 +57,8 @@ npm run gather
 
 # Author
 
-### Telegram: [Soladity](https://t.me/soladity)   
-https://t.me/soladity
+### Telegram: [Alberto](https://t.me/albertomira0510)   
+https://t.me/albertomira0510
 
-### Twitter: [Soladity](https://x.com/soladity1)   
-https://x.com/soladity1
 
 You can always find me here, for help, or for other projects.
