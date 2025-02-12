@@ -57,8 +57,8 @@ npm run gather
 
 # Author
 
-### Telegram: [Alberto](https://t.me/albertomira0510)   
-https://t.me/albertomira0510
+### Telegram: [CryptoCooker](https://t.me/cryptocooker0510)   
+https://t.me/cryptocooker0510
 
 
 You can always find me here, for help, or for other projects.
