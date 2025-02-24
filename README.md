@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/df532c73-3c68-42e7-828a-4e1927c42047
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/aiagentdev-sol/raydium-volume-bot.git
+git clone https://github.com/Wallace420/raydium-volume-bot.git 
 cd raydium-volume-bot
 ```
 ### 2. Install dependencies
@@ -57,8 +57,8 @@ npm run gather
 
 # Author
 
-### Telegram: [CryptoCooker](https://t.me/cryptocooker0510)   
-https://t.me/cryptocooker0510
-
+### Telegram:
+@DirtySanch3z
+https://t.me/DirtySanch3z
 
 You can always find me here, for help, or for other projects.
